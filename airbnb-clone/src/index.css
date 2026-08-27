@@ -1,6 +1,4 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
 
 html {
   transition: background-color 0.3s ease;
@@ -9,4 +7,3 @@ html {
 body {
   margin: 0;
 }
-@import "tailwindcss";
